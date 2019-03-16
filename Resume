@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resume</title>
+	<style>
+		body{
+			font-family: helvetica;
+			text-align: justify;
+			background-color: #f9f9f9;
+		}
+		h5{
+			text-align: right;
+			font-weight: normal;
+			font-family: sans-serif;
+		}
+		h4{
+			color: #4e9ca0fc;
+			font-family: sans-serif;
+		}
+		img{
+			border-radius: 90px;
+		}
+		h3{
+			color: #555555;
+		}
+		table {
+    	border-spacing: 0px;
+		}
+		ul{
+			list-style-type: none;
+		}
+		a:hover{
+			color: coral;
+		}
+		a:active{
+			color: aqua;
+		}
+		a{
+			text-decoration: none;
+		}
+		marquee{
+			background-color: aqua;
+			width: 100%;
+			color: magenta;
+		}
+	</style>
+</head>
+<body>
+	<table width="100%" cellpadding="0%">
+		<tr>
+			<td align="left"><a href="openimage.html"> <img src="http://cdn2us.denofgeek.com/sites/denofgeekus/files/1/82/batman_arkham_0_0.jpg" height="80" width="60" hspace="20"></a></td>
+			<td align="left"><h3>Piyush Gaur</h3></td>
+		</tr>
+	</table>
+	<table width="100%" cellpadding="0">
+		<tr>
+			<td><!></td>
+			<td align="right">My Adress</td>
+		</tr>
+		<tr>
+			<td><!></td>
+			<td align="right">1234567890</td>
+		</tr>
+		<tr>
+			<td><!></td>
+			<td align="right">piyushgaur@email.com</td>
+		</tr>
+	</table>
+	<br>
+	<hr>
+	<a name="Top"></a>
+	<table cellpadding="0" width="100%">
+		<tr>
+			<td align="left"><h4>Objective</h4></td>
+			<td align="right"><a href="#Bottom">Bottom</a></td>
+		</tr>
+	</table>
+	To be a part of company that indulges professional growth which provides challenging and rerwarding carrer while allowing me to utilize my knowledge and skills.
+	<h4>Technical Qualification</h4>
+	<table border=1 width="100%">
+		<tr>
+			<th>Course</th>
+			<th>Institute/University</th>
+			<th>Year of Passing</th>
+			<th>Percentage</th>
+			<th>Key Skills Acquired</th>
+		</tr>
+			<tr>
+				<td>Bachelor of Computer Applications</td>
+				<td>IPS University of Allahabad</td>
+				<td>2020</td>
+				<td>75</td>
+				<td>Application Programming, Databases etc.</td>
+			</tr>
+	</table>
+	<h4>Educational Qualification</h4>
+	<table border=1 width="100%">
+		<tr>
+			<th>Class</th>
+			<th>Institution/Board</th>
+			<th>Year of Passing</th>
+			<th>Subjects</th>
+			<th>Percentage/CGPA</th>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>Erny Memorial Sr Sec School</td>
+			<td>2017</td>
+			<td>Physics, Chem, Maths, English & CS</td>
+			<td>61%</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>Erny Memorial Sr Sec School</td>
+			<td>2015</td>
+			<td>Physics, Chem, Maths, English, Hindi, Social Science & CS</td>
+			<td>8.2</td>
+		</tr>
+	</table>
+	<h4>WorkShops/Seminars Attended</h4>
+	<table border=1 width="100%">
+		<tr>
+			<th>Event</th>
+			<th>Organization</th>
+			<th>Year</th>
+			<th>Key Skills Acquired</th>
+		</tr>
+		<tr>
+			<td>Information Retrieval in Scholarly Domains</td>
+			<td>IPS UoA</td>
+			<td>2017</td>
+			<TD>Retrieving the Info</TD>
+		</tr>
+	</table>
+	<h4>Key Strenghts</h4>
+	<ul>
+		<li>Key Learner</li>
+		<li>Dedicated in delivering team success.</li>
+	</ul>
+	<h4>Declaration</h4>
+	<p>I hereby declare that all of the above information is true to the best of my knowledge.</p>
+	<br>
+	<p>Date: 12/March/2019</p>
+	<p>Place: Prayagraj-UP (India)</p>
+	<h5>Piyush Gaur</h5>
+	<h4>Personalities I'm influenced from.</h4>
+	<ul>
+		<li><a href="www.apple.com">Steve Jobs</a></li>
+		<li><a href="www.microsoft.com">Bill Gates</a>
+		</li>
+		<li><a href="www.spacex.com">Elon Musk</a></li>
+	</ul>
+	<a name="Bottom"></a>
+	<table width="100%" cellpadding="0">
+		<tr>
+			<td><!></td>
+			<td align="right"><a href="#Top">Top</a></td>
+		</tr>
+	</table>
+	<marquee direction="right">A copied Quote goes here.</marquee>
+</body>
+</html>
